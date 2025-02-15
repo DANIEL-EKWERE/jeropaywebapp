@@ -7764,7 +7764,7 @@ aeL:function aeL(){},
 aeK:function aeK(a){this.a=a},
 aeJ:function aeJ(){},
 akM(){var s=t.cM,r=t.z
-return new A.tc("https://jeropay-api.onrender.com/api",new A.py("",0,A.a([],s)),A.a(["Data","Airtime","Cable","Electricity","Deposit"],t.s),[],A.G(r,r),new A.py("",0,A.a([],s)),A.a([],s),new A.Fh("0.0","0.0","0.0"),new A.py("",0,A.a([],s)),new A.E6("",new A.M_("","","","","","","","","")),new A.CU("",A.a([],t.j_)),$.Q())},
+return new A.tc("https://jeropay.com.ng/api",new A.py("",0,A.a([],s)),A.a(["Data","Airtime","Cable","Electricity","Deposit"],t.s),[],A.G(r,r),new A.py("",0,A.a([],s)),A.a([],s),new A.Fh("0.0","0.0","0.0"),new A.py("",0,A.a([],s)),new A.E6("",new A.M_("","","","","","","","","")),new A.CU("",A.a([],t.j_)),$.Q())},
 tc:function tc(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
 _.a=a
 _.b=b
@@ -43917,13 +43917,13 @@ s=s.a.b
 $.aYm=s
 $.aw=$.K=s/100}}
 A.aDM.prototype={
-$1(a){return new A.k_("https://jeropay-api.onrender.com/api",A.a([],t.s),$.Q())},
+$1(a){return new A.k_("https://jeropay.com.ng/api",A.a([],t.s),$.Q())},
 $S:282}
 A.aDR.prototype={
 $1(a){return new A.b7(A.bg(),$.Q())},
 $S:296}
 A.aDS.prototype={
-$1(a){return new A.jw("https://jeropay-api.onrender.com/api",new A.pw("",new A.LZ("","","","","","","","","")),new A.Ad("",new A.Oe("","","","","","","","","")),$.Q())},
+$1(a){return new A.jw("https://jeropay.com.ng/api",new A.pw("",new A.LZ("","","","","","","","","")),new A.Ad("",new A.Oe("","","","","","","","","")),$.Q())},
 $S:471}
 A.aDT.prototype={
 $1(a){return new A.dN($.Q())},
@@ -45234,7 +45234,7 @@ A.Af.prototype={
 X(){var s="CORPORATE GIFTING",r="MTN 500MB - #150",q="AIRTEL 500MB - #150",p="AIRTEL 1GB - #230",o="AIRTEL 2GB - #460",n="AIRTEL 3GB - #590",m="GLO 500MB - #150",l="9 MOBILE 500MB - #150",k="9 MOBILE 1GB - #230",j="9 MOBILE 2GB - #460",i="9 MOBILE 3GB - #590",h=t.s,g=A.a(["MTN","AIRTEL","GLO","9 MOBILE"],h),f=A.a(["SME","SME1","COPORATE","GIFTING"],h),e=A.a(["MTN(SME) 1GB - #227","MTN(SME1) 1GB - #230","MTN(COPERATE) 1GB - #227","MTN(GIFTING) 1GB - #227"],h),d=A.a([new A.rA("assets/images/glo.png","*127*0#"),new A.rA("assets/images/mtn.png","*461*4#"),new A.rA("assets/images/airtel.png","*140#"),new A.rA("assets/images/9mobile.png","*228#")],t.Uz),c=A.a(["MTN","AIRTEL","GLO","9 MOBILE"],h),b=t.N,a=t.yp,a0=A.a6(["MTN",A.a(["SME","SME2","GIFTING",s],h),"AIRTEL",A.a([s],h),"GLO",A.a([s],h),"9 MOBILE",A.a([s],h)],b,a)
 a=A.a6(["MTN",A.a6(["SME",A.a([r,"MTN 1GB - #230","MTN 2GB - #460","MTN 3GB - #590"],h),"SME2",A.a([r,"MTN 1GB - #230","MTN 2GB - #460","MTN 3GB - #590"],h),"GIFTING",A.a([r,"MTN 1GB - #230","MTN 2GB - #460","MTN 3GB - #590"],h),s,A.a([r,"MTN 1GB - #230","MTN 2GB - #460","MTN 3GB - #590"],h)],b,a),"AIRTEL",A.a6([s,A.a([q,p,o,n],h)],b,a),"GLO",A.a6([s,A.a([m,"GLO 1GB - #230","GLO 2GB - #460","GLO 3GB - #590"],h)],b,a),"9 MOBILE",A.a6([s,A.a([l,k,j,i],h)],b,a)],b,t.Sx)
 b=A.a6([r,"923cdea0-feec-4e3a-9e2e-e0edc76c8aec","MTN 1GB - #230","d055ab1c-67a6-425d-8265-cedfd7873a3c","MTN 2GB - #460","2f845458-d1f4-4c08-ade6-750953d73d52","MTN 3GB - #590","49be9c6f-7736-4b68-90dd-afc57b8d85dc",q,"16c51d1d-d62f-4e95-af04-6b097085258a",p,"d781023b-d79d-49bc-809a-9ec0539d5a45",o,"d4d43803-b64c-4fa1-8d7a-b936ef5fc736",n,"ffdbb024-2a93-41c2-a4d9-31ca44b84443",m,"b5dddd3b-313c-4fab-9277-751b3e28677a","GLO 1GB - #230","14b4c285-481a-42e2-8517-ed6e090a6d8d","GLO 2GB - #460","84e19afa-1fd6-406a-bfbc-6b3eb5d88ac8","GLO 3GB - #590","cf36db53-cc14-4f91-8f18-db577650e158",l,"4515121f-2b9c-4353-8b3e-731da08866c9",k,"acef55d7-5203-48bd-b9bd-260a614a2a8b",j,"62af5076-bd3d-4a15-803d-d1ff0f3f1034",i,"6e15da99-7706-4f80-99a7-b5d4af953723"],b,b)
-return new A.TO(g,f,e,d,c,a0,a,b,new A.bN(B.X,$.Q()),"https://jeropay-api.onrender.com/api")}}
+return new A.TO(g,f,e,d,c,a0,a,b,new A.bN(B.X,$.Q()),"https://jeropay.com.ng/api")}}
 A.TO.prototype={
 be(){this.cH()
 var s=this.c
@@ -46472,7 +46472,7 @@ AZ(){var s=0,r=A.n(t.H),q=this,p
 var $async$AZ=A.j(function(a,b){if(a===1)return A.k(b,r)
 while(true)switch(s){case 0:p=A
 s=2
-return A.t(new A.k_("https://jeropay-api.onrender.com/api",A.a([],t.s),$.Q()).u2(),$async$AZ)
+return A.t(new A.k_("https://jeropay.com.ng/api",A.a([],t.s),$.Q()).u2(),$async$AZ)
 case 2:q.D(new p.atM(q,b))
 return A.l(null,r)}})
 return A.m($async$AZ,r)},
@@ -103771,7 +103771,7 @@ $.aMP=null
 $.aOb=A.G(t.N,t.xd)
 $.aZO=A.G(t.S,A.aG("b6Z"))
 $.aOs=A.G(t.C_,t.e)
-$.aMT="https://jeropay-api.onrender.com/api"
+$.aMT="https://jeropay.com.ng/api"
 $.aYl=null
 $.aYm=null
 $.K=null
